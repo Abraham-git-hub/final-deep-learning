@@ -378,11 +378,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Contact
 
-For questions or collaboration:
-- Open an issue on GitHub
-- Email: [your-email@example.com]
 
 ---
 
